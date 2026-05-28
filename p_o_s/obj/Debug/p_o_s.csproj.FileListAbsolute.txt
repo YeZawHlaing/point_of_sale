@@ -1,0 +1,10 @@
+C:\Users\KML\Desktop\Project\p_o_s\p_o_s\bin\Debug\p_o_s.exe.config
+C:\Users\KML\Desktop\Project\p_o_s\p_o_s\bin\Debug\p_o_s.exe
+C:\Users\KML\Desktop\Project\p_o_s\p_o_s\bin\Debug\p_o_s.pdb
+C:\Users\KML\Desktop\Project\p_o_s\p_o_s\obj\Debug\p_o_s.csproj.AssemblyReference.cache
+C:\Users\KML\Desktop\Project\p_o_s\p_o_s\obj\Debug\p_o_s.Form1.resources
+C:\Users\KML\Desktop\Project\p_o_s\p_o_s\obj\Debug\p_o_s.Properties.Resources.resources
+C:\Users\KML\Desktop\Project\p_o_s\p_o_s\obj\Debug\p_o_s.csproj.GenerateResource.cache
+C:\Users\KML\Desktop\Project\p_o_s\p_o_s\obj\Debug\p_o_s.csproj.CoreCompileInputs.cache
+C:\Users\KML\Desktop\Project\p_o_s\p_o_s\obj\Debug\p_o_s.exe
+C:\Users\KML\Desktop\Project\p_o_s\p_o_s\obj\Debug\p_o_s.pdb
